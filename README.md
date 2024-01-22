@@ -1,16 +1,18 @@
-# Hi, I am Victor 
+# Bem-vindo ao meu perfil! 👋
 
-<!--
-**VictorLanes/VictorLanes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
+Oi, sou o Victor Lanes, um estudante de Ciência da Computação de 25 anos com paixão por resolver problemas e explorar novas tecnologias.
 
-Here are some ideas to get you started:
+## Formação Acadêmica
+- 🎓 Atualmente cursando Ciência da Computação na [Unicarioca]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Áreas de Interesse
+- Desenvolvimento de Software
+- Inteligência Artificial
+- Ciência de Dados
+
+## Contato
+- [LinkedIn](https://www.linkedin.com/in/seu-linkedin)
+- [Twitter](https://twitter.com/seu-twitter)
+
+
