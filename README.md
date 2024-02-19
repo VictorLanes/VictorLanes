@@ -8,7 +8,7 @@ Olá, sou o Victor Lanes, um entusiasta de Ciência da Computação de 25 anos, 
 
 ## Formação Acadêmica
 
-- 🎓 Atualmente cursando Ciência da Computação na [Nome da Sua Universidade]
+- 🎓 Atualmente cursando Ciência da Computação na Unicarioca
 
 ## Áreas de Interesse
 
