@@ -2,9 +2,25 @@
 
 ## Sobre Mim
 
-Olá, sou o Victor Lanes, um entusiasta de Ciência da Computação de 25 anos, apaixonado por resolver problemas e explorar novas tecnologias.
+<div id="about-me"></div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=seu-username&color=brightgreen)
+<script>
+  var text = "Olá, sou o Victor Lanes, um entusiasta de Ciência da Computação de 25 anos, apaixonado por resolver problemas e explorar novas tecnologias.";
+  var speed = 50; // velocidade de digitação em milissegundos
+
+  function typeWriter(text, i, cb) {
+    if (i < text.length) {
+      document.getElementById("about-me").innerHTML += text.charAt(i);
+      i++;
+      setTimeout(function() { typeWriter(text, i, cb); }, speed);
+    } else {
+      cb();
+    }
+  }
+
+  // chamada da função para simular o efeito de digitação
+  typeWriter(text, 0, function() {});
+</script>
 
 ## Formação Acadêmica
 
@@ -17,9 +33,11 @@ Olá, sou o Victor Lanes, um entusiasta de Ciência da Computação de 25 anos, 
 - 📊 Análise de Dados
 - 🤖 Inteligência Artificial
 
-## Estatísticas do GitHub
+## Projetos
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&count_private=true)
+- 🚀 Projeto 1: [Nome do Projeto 1](link_para_o_projeto)
+- 🌟 Projeto 2: [Nome do Projeto 2](link_para_o_projeto)
+- ⭐️ Projeto 3: [Nome do Projeto 3](link_para_o_projeto)
 
 ## Habilidades Técnicas
 
@@ -29,5 +47,6 @@ Olá, sou o Victor Lanes, um entusiasta de Ciência da Computação de 25 anos, 
 - 📈 Ferramentas de Análise de Dados: Pandas, NumPy, ...
 - 🤖 Bibliotecas de IA: TensorFlow, PyTorch, ...
 
-## ** Desenvolvedor Apaixonado por Tecnologia**
+## Contador de Visualizações do Perfil
 
+![Profile Views](https://komarev.com/ghpvc/?username=seu-username&color=brightgreen)
